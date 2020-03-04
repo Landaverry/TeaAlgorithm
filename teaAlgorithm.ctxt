@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=teaAlgorithm
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=key\ k
+comment2.target=long\ encrypt(long[],\ int[])
+comment3.params=cipherKey\ k
+comment3.target=long\ decrypt(long,\ int[])
+numComments=4
